@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=#9999FF&height=300" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=#9999FF&height=500" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janeee205&layout=compact"><br><br>
 
 
