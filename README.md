@@ -1,5 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=#9999FF&height=200&section=header&text=hello&fontSize=30" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janeee205)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janeee205&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Janeee205&show_icons=true">
+
+
+
+
 ### Hi there 👋
 
 <!--
