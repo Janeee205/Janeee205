@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=#9999FF&height=200&section=header&text=hello&fontSize=30" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janeee205&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Janeee205&show_icons=true">
 
 
 
