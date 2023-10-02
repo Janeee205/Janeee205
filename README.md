@@ -1,11 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0DBDFF,100:FFFF66&text=WELCOME!" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janeee205&layout=compact"><br><br>
 
-### 2023- 대전배재대ICT융합새일센터
+<h2>대전배재대ICT융합새일센터</h2>
 
----
 
-#### 경주문화관광
+경주문화관광
 
 https://gyeongjuuu.du.r.appspot.com/main/
 
