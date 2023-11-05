@@ -53,3 +53,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br><br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaneee205%2Fhit-counter&count_bg=%237E7E7E&title_bg=%232B2B2B&icon=postwoman.svg&icon_color=%238EBE72&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
