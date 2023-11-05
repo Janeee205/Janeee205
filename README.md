@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=0:0DBDFF,110:FFFF66&text=WELCOME!" />
 
 ![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janeee205&show_icons=true&theme=graywhite)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janeee205&layout=compact&w=300">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janeee205&layout=compact&h=300">
 
 ## 📚 STACK 📚
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
