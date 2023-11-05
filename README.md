@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=0:0DBDFF,110:FFFF66&text=WELCOME!" />  
         ![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janeee205&show_icons=true&theme=graywhite)
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janeee205&layout=compact">
+        
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
