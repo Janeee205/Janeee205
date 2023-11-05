@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=0:0DBDFF,110:FFFF66&text=WELCOME!" /><br>
-
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=0:0DBDFF,110:FFFF66&text=WELCOME!" />
+<br><br>
 ![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janeee205&show_icons=true&theme=graywhite)
 <img height="195"  style="margin-left:'5px'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janeee205&layout=compact">
 
