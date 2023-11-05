@@ -42,7 +42,15 @@
 </div><br>
 </div>
 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:ga473625@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
 
+
+    
 <h2>대전배재대ICT융합새일센터</h2>
 
 경주문화관광
