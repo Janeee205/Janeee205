@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/fontawesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white">
-</div>
+</div><br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
