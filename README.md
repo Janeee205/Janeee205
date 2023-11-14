@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=0:0DBDFF,110:FFFF66&text=WELCOME!" />
 <br><br>
 <!--     ambient_gradient    buefy -->
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
         
 ![Jueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janeee205&show_icons=true&theme=vue)
 <img height="195"  style="margin-left:'5px'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janeee205&layout=compact">
