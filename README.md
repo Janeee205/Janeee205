@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&fontSize=70&color=0:0DBDFF,110:FFFF66&text=WELCOME!" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&fontSize=70&color=0:0DBDFF,110:FFFF66&text=WELCOME!"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&fontSize=70&color=0:0DBDFF,110:FFFF66&text=WELCOME!"/>
 <br><br>
 <!--     ambient_gradient    buefy -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
