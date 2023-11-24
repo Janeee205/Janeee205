@@ -41,7 +41,7 @@
 
 경주문화관광
 
-https://gyeongjuuu.du.r.appspot.com/main/
+https://gyeongju0915.du.r.appspot.com/main/
 <!--
 **Janeee205/Janeee205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
